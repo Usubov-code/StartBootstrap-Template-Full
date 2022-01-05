@@ -183,3 +183,16 @@ a {
 {
     margin-top: 50px;
 }
+#contactForm
+{
+    margin-left: 500px;
+}
+.form-floating>.form-control
+{
+    font-size: 1.5rem;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    border-radius: 0;
+    border-width: 1px;
+}
